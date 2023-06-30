@@ -38,3 +38,4 @@ To learn more about Microsoft Graph, take a look at the following resources:
 
 - [Overview of Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview)
 - [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
+- [A step by step JavaScript Microsoft Graph tutorials](https://learn.microsoft.com/en-us/graph/tutorials/javascript)
